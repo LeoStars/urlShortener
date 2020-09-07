@@ -1,0 +1,19 @@
+{
+    "URLs": [
+        {
+            "id": 0,
+            "address": "http://www.google.com",
+            "short": "a"
+        },
+        {
+            "id": 1,
+            "address": "http://vk.com/",
+            "short": "i-am-vk"
+        },
+        {
+            "id": 2,
+            "address": "http://bing.com/",
+            "short": "c"
+        }
+    ]
+}
