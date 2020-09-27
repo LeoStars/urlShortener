@@ -1,0 +1,3 @@
+curl -X POST -d "{\"address\": \"www.google.com\"}" http://localhost:8080/decode
+curl -X POST -d "{\"address\": \"vk.com\", \"short\": \"tellmeabout\"}" http://localhost:8080/custom
+curl -i localhost:8080/a
